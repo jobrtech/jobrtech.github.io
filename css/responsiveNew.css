@@ -1,0 +1,2249 @@
+@media (min-width: 1646px) and (max-width: 1746px) {
+  .driverOperation_ {
+    padding: 24px 15px;
+  }
+}
+@media (min-width: 1580px) and (max-width: 1745px) {
+  .driverOperation_ {
+    padding: 24px 15px;
+  }
+  .driverOperation_ h4 {
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .productSlider_Parent .driverOperation_ {
+    padding: 24px 18px;
+    height: 105px;
+  }
+}
+@media (min-width: 1500px) and (max-width: 1600px) {
+  .driverOperation_ {
+    padding: 24px 15px;
+    max-width: 292px;
+  }
+  .driverOperation_ h4 {
+    font-size: 21px;
+    font-weight: 400;
+  }
+  .productSlider_Parent .driverOperation_ {
+    height: 95px;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1500px) {
+  .driverOperation_ {
+    padding: 24px 15px;
+    max-width: 268px;
+  }
+  .driverOperation_ h4 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .benefitCard .heading30 {
+    font-size: 25px;
+  }
+  .benefitCard .heading24 {
+    font-size: 18px;
+  }
+  .benefitCard {
+    padding: 34px 25px;
+  }
+  .mobileConnectionImg_ {
+    display: none;
+  }
+  .productSlider_Parent .driverOperation_ {
+    height: 95px;
+  }
+}
+@media screen and (max-width: 1900px) {
+  .comonPos_ .image-wrapper {
+    padding: 0 2%px 0 15%;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .comonPos_ .image-wrapper {
+    padding: 0 2%px 0 11%;
+  }
+}
+
+@media screen and (max-width: 1580px) {
+  .comonPos_ .image-wrapper {
+    padding: 0 2% 0 5%;
+  }
+  .bannerleftContent {
+    /* padding-left: 22%; */
+  }
+  .radiolimg_ {
+    top: -75px;
+    width: 61%;
+  }
+  .bannerimg_ {
+    /* width: 55%; */
+  }
+}
+@media screen and (max-width: 1399px) {
+  .comonPos_ .card1 {
+    height: 72vh;
+  }
+  .benefitCard .heading30 {
+    font-size: 25px;
+  }
+  .benefitCard .heading24 {
+    font-size: 18px;
+  }
+  .benefitCard {
+    padding: 34px 25px;
+  }
+  .successCard .heading24 {
+    font-size: 20px;
+  }
+  .productVersatile_Box .heading24 {
+    font-size: 22px;
+  }
+  .productVersatile_Box .versaltile_boxes {
+    padding: 48px 30px 24px 30px;
+  }
+  .b2b_Section .sellMore_Txt.heading28 {
+    font-size: 24px;
+  }
+  .productSlider_Parent .driverOperation_ {
+    height: 95px;
+  }
+  .productSlider_Parent .driverOperation_ {
+    padding: 24px 18px;
+    max-width: 265px;
+  }
+  .driverOperation_ h4 {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 1399px) and (min-width: 1200px) {
+  .allProduct_Section .allProduct_Head {
+    padding: 25px 0;
+  }
+  .allProduct_Section .all_ProductBtn {
+    margin-top: 25px;
+  }
+  .allProduct_Section .allProduct_LeftSide .heading56 {
+    font-size: 50px;
+  }
+  .allProduct_Section .allProduct_LeftSide .heading30 {
+    font-size: 24px;
+  }
+  .joberDeriver .heading56 {
+    font-size: 50px;
+  }
+  .product_Emp.early_Access .productEmp_Head {
+    font-size: 24px;
+  }
+  .home_Business .heading24 {
+    font-size: 23px;
+  }
+
+  .why_Jobr .heading60 {
+    font-size: 55px;
+  }
+  .why_Jobr .heading24 {
+    font-size: 22px;
+  }
+  .pricingCardBlue .heading18 {
+    font-size: 16px;
+  }
+  .pricingCard .heading18 {
+    font-size: 16px;
+  }
+  /* .why_Jobr br{
+    display: ;
+  } */
+}
+
+@media screen and (max-width: 1366px) {
+  .businessSol_Section {
+    margin: 0 0 128px;
+  }
+  .image {
+    top: 18%;
+  }
+  .driverOperation_ {
+    width: 93%;
+    max-width: initial;
+  }
+  .driverOperation_ h4 {
+    font-size: 21px;
+  }
+  .navbar-nav .nav-item {
+    padding: 0 27px;
+  }
+  .heading63 {
+    font-size: 56px;
+  }
+  .bannerimg_ {
+    /* width: 61%; */
+  }
+  /* .businessempowerText_ {
+    padding: 50px 59px !important;
+  } */
+  .businessfeature_ {
+    padding: 41px 18px;
+    min-height: 265px;
+  }
+
+  .driverOperation_ h4 {
+    font-size: 19px;
+  }
+  .driverTrial .trialBox_ {
+    padding: 55px 41px;
+  }
+  .ecoinnerContent {
+    padding: 20px 19px;
+  }
+  .driverOperation_ {
+    padding: 24px 16px;
+  }
+  .customerReview {
+    padding: 37px 28px;
+    min-height: 364px;
+  }
+  .informationForm .primaryBtn_ {
+    max-width: initial;
+    width: 40%;
+  }
+  /* Start Cashback Section */
+  .versaltile_boxes .heading20 {
+    font-size: 18px;
+  }
+  .benefitCard .heading24 {
+    font-size: 18px;
+  }
+  /* End Versatile Section */
+
+  /* Start Landing Page */
+  .bannerBox_ .heading72 {
+    font-size: 50px;
+    font-weight: 400;
+  }
+  .dynamicBusiness .heading60 {
+    font-size: 45px;
+  }
+  .businessEcosystem_ .heading56 {
+    font-size: 45px;
+  }
+  .bannerBox_ .heading30 {
+    font-size: 24px;
+  }
+  .bannerBox_ .informationForm {
+    margin-top: 25px;
+  }
+  .bannerBox_ .informationForm .heading24 {
+    margin-bottom: 20px;
+  }
+  /* End Landing Page */
+  .aboutDynamicBusiness .heading56 {
+    font-size: 50px;
+  }
+  .aboutDynamicBusiness .heading72 {
+    font-size: 60px;
+  }
+  .aboutDynamicBusiness .heading60 {
+    font-size: 48px;
+  }
+  .aboutDynamicBusiness .heading30 {
+    font-size: 26px;
+  }
+  .qualityPage .heading56 {
+    font-size: 45px;
+  }
+  .qualityPage .heading24 {
+    font-size: 22px;
+  }
+  .success .heading48 {
+    font-size: 44px;
+  }
+  .why_Jobr .heading60 {
+    font-size: 50px;
+  }
+  .why_Jobr .heading24 {
+    font-size: 20px;
+  }
+  .image-wrapper {
+    padding: 0 100px;
+  }
+  .comonPos_ .image {
+    top: 11%;
+  }
+  .comonPos_ .b2bSection_Images img {
+    width: 57%;
+  }
+}
+@media screen and (min-width: 991px) {
+  header .nav-item:hover .dropdown-menu {
+    display: block;
+    left: 10px;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .foodBeverage_BannerImg {
+    max-width: 650px;
+  }
+  .card1 {
+    height: 77vh;
+  }
+  .driverOperation_ {
+    padding: 24px 18px;
+  }
+  .heading63 {
+    font-size: 55px;
+    line-height: 60px;
+  }
+  .bannerleftContent {
+    /* padding-left: 17%; */
+  }
+
+  .navbar-nav .nav-item {
+    padding: 0 25px;
+  }
+  .radiolimg_ {
+    width: 67%;
+  }
+  .bannerimg_ {
+    /* width: 62%; */
+  }
+  /* .businessempowerText_ {
+    padding: 50px 76px !important;
+  } */
+
+  .businessfeature_ {
+    padding: 50px 22px;
+  }
+
+  .ecoinnerContent {
+    padding: 20px 19px;
+  }
+  .dropdown-toggle::after {
+    right: 13px;
+  }
+  .sliderreview_ {
+    margin-left: 4%;
+  }
+  .customerReview {
+    padding: 24px 24px;
+  }
+  .driverOperation_ h4 {
+    font-size: 18px;
+  }
+  .heading26 {
+    font-size: 25px;
+  }
+  /* Start StreamLine Section */
+  .streamLine .heading56 {
+    font-size: 40px;
+  }
+  /* End StreamLine Section */
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+
+  .foodBev_Banner {
+    padding-top: 40px;
+}
+.foodBev_Banner .commonBtn_Parent {
+  padding-bottom: 40px;
+}
+.foodBev_Banner .heading60 {
+  font-size: 40px;
+}
+.foodBev_Banner .heading30 {
+  font-size: 23px;
+  line-height: 35px;
+  margin: 15px 0 15px!important;
+}
+
+  .foodBeverage_BannerImg {
+    max-width: 568px;
+  }
+  .pricingCard .heading18 {
+    font-size: 16px;
+  }
+  .pricingDataList li .heading18 {
+    font-size: 15px !important;
+  }
+  .pricingCard .heading54 {
+    font-size: 45px;
+  }
+  .pricingCard .heading20 {
+    font-size: 18px;
+  }
+  .pricingCardBlue .heading18 {
+    font-size: 16px;
+  }
+  .pricingDataList li .heading18 {
+    font-size: 15px !important;
+  }
+  .pricingCardBlue .heading54 {
+    font-size: 45px;
+  }
+  .pricingCardBlue .heading20 {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 1199px) {
+ 
+  .comonPos_ .cardLeft {
+    padding-right: 0;
+  }
+  .comonPos_ .cardLeft .heading60 {
+    font-size: 42px;
+  }
+  .posSection .card1 {
+    height: 51vh;
+  }
+  .comonPos_ .cardLeft .heading24 {
+    font-size: 20px !important;
+  }
+  .cardLeft {
+    padding-right: 30px;
+  }
+  .allProduct_LeftSide .heading30 br {
+    display: none;
+  }
+  .successCard br {
+    display: none;
+  }
+  .comonPos_ .image-wrapper {
+    padding: 0 11px 0 7%;
+  }
+  .comonPos_ .image {
+    top: 17%;
+  }
+  .b2b_Section .sellMore_Txt.heading28 br {
+    display: none;
+  }
+  .pricingCard .pricingDataListSecond .heading18 {
+    font-size: 16px;
+  }
+  .pricingCard .pricingDataList .heading18 {
+    font-size: 16px;
+  }
+  .pricingCardBlue .pricingDataList .heading18 {
+    font-size: 16px;
+  }
+  .businessEcosystem_ br {
+    display: none;
+  }
+  .aboutDynamicBusiness br {
+    display: none;
+  }
+  .dynamicBusiness br {
+    display: none;
+  }
+  .bannerBox_ br {
+    display: none;
+  }
+  .loginBtn {
+    padding: 10px 3px;
+  }
+  .dropdown-toggle::after {
+    right: 8px;
+  }
+  .navbar-nav .nav-item {
+    padding: 0 20px;
+  }
+  .bannerimg_ {
+    /* width: 53%; */
+  }
+  /* .businessempowerText_ {
+    padding: 50px 35px !important;
+  } */
+  .informationForm .primaryBtn_ {
+    width: 40%;
+  }
+  /* Start Early Access */
+  .early_Access .productEmp_Head {
+    text-align: center;
+  }
+  .early_Access .trialBtn_ {
+    text-align: center;
+    margin-top: 15px;
+  }
+  /* End Early Access Section */
+
+  /* Start Product Empower Section */
+  .product_Emp .trialBtn_ {
+    text-align: center;
+    margin-top: 15px;
+  }
+  /* End Product Empower Section */
+
+  /* Start All Product Section */
+  .allProduct_Section .allProduct_LeftSide {
+    padding-left: 0;
+  }
+  .allProduct_Section .allProduct_Head {
+    font-size: 40px;
+    padding: 20px 0;
+  }
+  .allProduct_Section .heading30 {
+    font-size: 20px;
+  }
+  .allProduct_Section .all_ProductBtn {
+    margin-top: 20px;
+  }
+  /* End All Product Section */
+  .streamLineImg {
+    top: 140px;
+    max-width: 500px;
+  }
+
+  /* Start B2b Section */
+  .b2b_Section .heading60 {
+    font-size: 40px;
+  }
+  .b2b_Section .heading60 {
+    font-size: 40px;
+  }
+  .posSection .heading72 {
+    font-size: 40px;
+  }
+  .b2b_Section .heading24 {
+    font-size: 18px;
+  }
+  .b2b_Section .sellMore_Txt {
+    padding-top: 15px;
+  }
+  .b2b_Section .heading24 br {
+    display: none;
+  }
+  .b2b_Section .getApp_Box {
+    padding: 50px 120px;
+  }
+  /* End B2b Section */
+
+  .successCard {
+    padding: 19px 10px;
+  }
+  /* new css */
+  .pricingCardBlue {
+    padding: 42px 33px;
+  }
+  .pricingCard {
+    padding: 42px 33px;
+  }
+  .pricingGetBtn {
+    padding: 16px;
+  }
+  .heading54 {
+    font-size: 48px;
+  }
+
+  .pricingCardBlue br {
+    display: none;
+  }
+  .pricingCard br {
+    display: none;
+  }
+
+  /* Start POS */
+  .cardLeft .heading60 div br {
+    display: none;
+  }
+  .cardLeft .heading60 {
+    font-size: 35px;
+  }
+  .cardLeft .heading24 {
+    font-size: 16px !important;
+    line-height: unset;
+  }
+}
+@media screen and (max-width: 1080px) {
+  .image-wrapper {
+    padding: 0 63px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .bannerColumn{
+    position: relative;
+    z-index: -1;
+  }
+  .foodBev_Banner{
+    padding-top: 60px;
+  }
+
+.foodBev_Checkout{
+  flex-direction: column;
+}
+ .exploreHeading {
+  width: 100%;
+}
+.businessBtns_Parent{
+  width: 100%;
+}
+  .barsBannerImg {
+    position: relative;
+  }
+  .retail_BannerImg,
+  .foodBeverage_BannerImg,
+  .beautyBannerImg {
+    position: relative;
+  }
+  .dynamicLeft_.qualityProduct img {
+    position: relative;
+  }
+  .barsBannerImg {
+    position: relative;
+  }
+  .foodBeverage_BannerImg {
+    position: unset;
+    padding-top: 0;
+  }
+  .posSection .pos_CompanyImg {
+    margin-top: 0;
+  }
+  .productStreamline {
+    padding-top: 108px;
+  }
+  .nav_links.active {
+    background: #f5f6fc;
+    border-radius: 20px;
+  }
+  .eight {
+    margin-top: 53%;
+  }
+  .productSlider_Parent .driverOperation_ {
+    padding: 24px 18px;
+    height: 82px;
+  }
+  .product_Section {
+    padding: 80px 0;
+  }
+
+  /* .aboutDynamicBusiness {
+    padding: 80px 0 60px;
+    background: #eff2f9;
+  } */
+  /* Start Navbar Toggle Css */
+  .dropdown-toggle::after {
+    display: none;
+  }
+  .nav_ContactSalesBtn {
+    display: block !important;
+  }
+
+  .navbarListParent li {
+    display: flex;
+    align-items: center;
+  }
+  header .navbar-collapse {
+    margin-right: 0;
+    background: #f5f7fc !important;
+    padding: 10px 10px 10px 0px;
+    height: 100vh;
+    box-shadow: none !important;
+    transition: none !important;
+  }
+  .navbarListParent {
+    padding-top: 30px;
+    height: calc(100% - 145px);
+  }
+  .positiveIcon {
+    display: block;
+  }
+  /* End Navbar Toggle Css */
+  .b2b_Section {
+    padding: 50px 0 ;
+  }
+  .posSection.b2b_Section {
+    padding: 40px 0 0 !important;
+  }
+
+  .posSection .businessSol_Section {
+    margin: 0 0 60px;
+  }
+ 
+  
+  .b2bSection_Images img {
+    width: 80%;
+  }
+  .image {
+    top: 5%;
+  }
+  .b2b_Section .b2bSection_Images {
+    margin: 0 0;
+  }
+  .extensive.commonCardSm {
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+  }
+  .pricingPara {
+    margin-top: 50px;
+    margin-bottom: 35px;
+  }
+  .pricing_Section .heading60 {
+    font-size: 40px;
+  }
+  .pricing_Section .heading28 {
+    font-size: 24px;
+  }
+  .pricingCardBlue {
+    height: auto !important;
+    margin-bottom: 40px;
+  }
+  .pricingCard {
+    height: auto !important;
+    margin-bottom: 40px;
+  }
+  .disclaimerLeft_.footer_DiscLeft {
+    padding-right: 0;
+  }
+  .disclaimerLeft_.footer_DiscRight {
+    padding-left: 0;
+    margin-top: 0;
+  }
+  .header_SignupBtn {
+    margin-right: 30px;
+  }
+  .landingHeaderBtn.header_SignupBtn{
+    margin-right: 0;
+  }
+  /* Start Contact us page */
+  
+  .contactUs_Section .heading72 {
+    font-size: 60px;
+    font-weight: 400;
+  }
+  .contactUs_Section .heading30 {
+    font-size: 24px;
+  }
+  .contactUs_Section .contactUs_Form {
+    margin-top: 50px;
+  }
+  /* End contact us page */
+  /* Start Landing Page */
+  .bannerBox_ {
+    padding: 50px 0 30px;
+  }
+  .dynamicBusiness {
+    padding: 0 0 30px !important;
+  }
+  .dynamicLeft_ {
+    margin-top: 40px;
+  }
+  .businessEcosystem_ br {
+    display: none;
+  }
+  .dynamicBusiness br {
+    display: none;
+  }
+  .bannerBox_ br {
+    display: none;
+  }
+  .new_Footer .heading26 {
+    font-size: 23px;
+  }
+  .new_Footer {
+    padding: 60px 0 90px;
+  }
+  .benefitCard br {
+    display: none;
+  }
+  /* End Landing page */
+  /* Start All Product Section */
+  .allProduct_Order2 {
+    order: 2;
+  }
+  .allProduct_Order1 {
+    order: 1;
+  }
+  .allProduct_LeftSide {
+    padding: 30px 0;
+  }
+  /* End All Product Section */
+
+  /* Start Product Page */
+  .cashback_Section .heading56 {
+    font-size: 40px;
+  }
+  .productTrailBtn {
+    padding: 0;
+  }
+  /* End Product Page */
+  header .nav-item:hover .dropdown-menu {
+    left: 4px;
+    position: absolute;
+  }
+  .informationForm .primaryBtn_ {
+    width: 70%;
+  }
+  .radiolimg_ {
+    display: none;
+  }
+  .bannerRightimg {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .bannerimg_ {
+    position: relative;
+    left: 0;
+    margin: 0 auto;
+  }
+  .bannerimg_ {
+    /* width: 74%; */
+  }
+  .businessEnpoer_ {
+    padding: 20px 0;
+  }
+  /* .businessempowerText_ {
+    padding: 75px 0 !important;
+  } */
+  .topboxmargin_ {
+    margin-top: 0;
+  }
+
+  .driverOperation_ {
+    padding: 24px 16px;
+  }
+  .driverOperation_ h4 {
+    font-size: 14px;
+  }
+  .driverTrial .trialBox_ {
+    padding: 55px 19px;
+  }
+  header .navbar-toggler {
+    padding: 0 !important;
+    line-height: 30px !important;
+  }
+  .bannerleftContent {
+    /* padding-left: 16%; */
+    /* padding-right: 16%; */
+  }
+  .customformControl {
+    width: 100%;
+  }
+  .bannerleftContent .customformControl{
+    width: 96% !important;
+  }
+  .ecoinnerContent {
+    margin-bottom: 30px;
+  }
+  .businessEcosystem_ {
+    padding-bottom: 61px;
+    padding-top: 23px;
+  }
+  .driverTrial .trialBox_ {
+    text-align: center;
+  }
+  .loginBtnCon {
+    display: none;
+  }
+  .mobloginBtnCon {
+    display: flex !important;
+  }
+  header .navbar-collapse .nav-item {
+    padding: 8px 16px;
+  }
+  header .navbar-collapse {
+    margin-right: 0;
+    background: #e4e8f2;
+    box-shadow: 0 0 10px #e9e9e9;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .trialBtn_ {
+    margin-top: 22px;
+  }
+  /* Start Integrated Section */
+  .integratedSection .trialBtn_.productTrailBtn {
+    margin: 30px 0;
+  }
+  .integratedSection .heading60 {
+    font-size: 50px;
+  }
+  .integratedSection .stream_Para {
+    padding-top: 25px;
+    font-size: 22px;
+  }
+  /* End Integrated Section */
+  .afterRes {
+    display: block;
+  }
+  .loginBtn {
+    padding: 10px 15px;
+  }
+  .dynamicBusiness {
+    padding: 0px 0 80px;
+  }
+  /* Start Stream Line Section */
+  .streamLineImg {
+    display: none;
+  }
+  .integrated_Container {
+    padding-top: 50px;
+  }
+  .streamLine .heading56 br {
+    display: none;
+  }
+  .streamLine .heading24 br {
+    display: none;
+  }
+  .streamLine .heading56 {
+    font-size: 30px;
+  }
+  .disclaimerLeft_ {
+    margin-top: 20px;
+  }
+
+  /* End Stream Line Section*/
+
+  /* Start Contact Us */
+  .contactForm_Leftside {
+    border-radius: 30px 30px 0 0;
+  }
+  .contactForm_Rightside {
+    border-radius: 0 0 30px 30px;
+  }
+  /* End Contact Section */
+
+  /* Start B2B Section */
+  .b2b_Section .b2bSection_Images {
+    margin: 24px 0;
+    text-align: center !important;
+  }
+  .b2b_Section .order2 {
+    order: 2;
+  }
+  .b2b_Section .order1 {
+    order: 1;
+  }
+  .b2b_Getapp {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .b2b_Section .deliveryCommon {
+    margin-top: 20px;
+  }
+  .b2b_Section .deliveryCommon {
+    height: unset;
+  }
+  .b2b_Section .sellMore {
+    padding-bottom: 52px;
+  }
+  .pos_CompanyImg {
+    margin-top: 50px;
+  }
+  .b2b_Section .heading60 br {
+    display: none;
+  }
+  .pos_CompanyImg {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  .b2b_Section .common_ParentDiv {
+    padding: 80px 0;
+  }
+  .benefit .heading48 {
+    line-height: 61px;
+    font-size: 47px;
+  }
+
+  .benefitCard .heading30 {
+    font-size: 22px;
+  }
+  .benefitCard .heading24 {
+    font-size: 16px;
+  }
+  .benefitCard {
+    padding: 20px 18px;
+  }
+  .success .heading48 {
+    color: #263682;
+    font-size: 47px;
+    font-weight: 400;
+    line-height: 60px;
+  }
+  .successCard .heading24 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .successCard .successCount {
+    font-size: 35px;
+  }
+  .successCard .successCountTxt {
+    font-size: 16px;
+  }
+  .successCard {
+    padding: 21px 13px;
+  }
+  .success {
+    padding: 44px;
+    margin-top: 40px;
+  }
+  .aboutDynamicBusiness .heading19 {
+    margin-bottom: 0px !important;
+  }
+  .heading19 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  /* End B2B Section  */
+  .qualityProduct .heading56 {
+    padding-top: 30px !important;
+  }
+  .qualityProduct .heading56.aboutUsTxt {
+    padding-top: 0 !important;
+  }
+  /* Start Pos */
+  .cardLeft .heading60 {
+    font-size: 24px !important;
+  }
+  .card1 {
+    height: 55vh;
+    padding: 30px;
+  }
+  .businessSol_Section {
+    margin: 0;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .productVersatile_Box .versaltile_boxes {
+    padding: 24px 15px 24px 15px;
+}
+.marketplace_List {
+  padding: 23px 0;
+}
+.productVersatile_Box .heading24 {
+  font-size: 21px;
+}
+}
+@media screen and (max-width: 991px) and (min-width: 767px) {
+  .imgBox {
+    padding: 14px;
+  }
+  .imgBox3 {
+    padding: 10px;
+  }
+
+  .heading54 {
+    font-size: 36px;
+  }
+  .pricingDataList li {
+    margin-bottom: 13px !important;
+  }
+  .pricingGetBtn {
+    padding: 12px;
+  }
+  .pricingGetBtn {
+    margin: 13px 0px 22px 0px;
+  }
+
+  .pricingDataListSecond li {
+    margin-bottom: 13px !important;
+  }
+  .cardContainer {
+    height: 90vh;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 850px) {
+  .comonPos_ .cardContainer .card1 .imageContainer img {
+    height: 83% !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bannerleftContent .customformControl{
+    width: 100% !important;
+  }
+  .imageContainer {
+    width: 100%;
+  }
+  .cardLeft .heading60 {
+    font-size: 30px !important;
+  }
+  .card1 {
+    padding: 30px 20px;
+    display: block;
+    text-align: center;
+    height: 57vh;
+  }
+  .card1 .imageContainer {
+    height: unset;
+    margin: 20px auto 0;
+  }
+  .cardLeft {
+    padding-right: 0;
+    width: 100%;
+  }
+  .cardContainer {
+    height: 100vh;
+  }
+  /* .salesSupportList {
+    border-bottom: 1px solid #576587;
+    padding-bottom: 40px;
+  } */
+  .footerSaleUl {
+    padding-top: 25px;
+  }
+  .posSection .extensive.commonCardSm {
+    text-align: left;
+  }
+  .posSection .b2bSection_Images img {
+    width: 94%;
+  }
+  .posSection .pos_CompanyImg {
+    margin-top: 13px;
+  }
+  .b2cget_ {
+    margin-top: 30px;
+  }
+  .comonPos_ .b2bSection_Images img {
+    width: 37%;
+  }
+  /* start landing page */
+  .dynamicBusiness .heading60 {
+    font-size: 30px;
+  }
+  .bannerBox_ .heading72 {
+    font-size: 48px;
+    font-weight: 400;
+  }
+  .dynamicBusiness .heading24 {
+    font-size: 18px;
+    line-height: 29px;
+  }
+  .benefit .heading48 br {
+    display: none;
+  }
+  .benefitLower {
+    padding: 50px 0 50px;
+  }
+  /* End landing page */
+  .streamLine {
+    padding-top: 50px;
+  }
+  .allProduct_Section {
+    padding: 50px 0;
+  }
+  /* Start Integrated Section */
+  .integratedSection .heading60 {
+    font-size: 40px;
+  }
+  .integratedSection .stream_Para {
+    padding-top: 15px;
+    font-size: 20px;
+  }
+  /* End Integrated Section */
+
+  /* Start Product Empower Section */
+  .product_Emp .productEmp_Head {
+    font-size: 24px;
+  }
+  .product_Emp {
+    padding: 50px 0;
+  }
+  /* End Product Empower Section */
+
+  /* Start joberDeriver Section */
+  .joberDeriver {
+    padding: 50px 0 0;
+  }
+  .productSlider_Parent {
+    margin: 50px 0 0;
+  }
+  .joberDeriver .heading56 {
+    font-size: 40px;
+    line-height: unset;
+  }
+  .joberDeriver .heading24 {
+    font-size: 20px;
+  }
+  /* End joberDeriver Section */
+  /* .bannerleftContent {
+    text-align: center;
+  } */
+  .loginBtn {
+    padding: 10px 14px;
+  }
+  .informationForm .primaryBtn_ {
+    width: 64%;
+  }
+
+  .product_Parent .heading72 {
+    font-size: 40px;
+  }
+  /* Start CashBack Section */
+  .cashback_Section {
+    padding: 50px 0;
+  }
+  .cashBack_Order2 {
+    order: 2;
+  }
+  .cashBack_Order1 {
+    order: 1;
+  }
+  .cashBack_Boxes {
+    margin-top: 40px;
+  }
+  /* End Cashbak Section */
+  /* Start Vesatile Section */
+  .versaltile_boxes {
+    margin-top: 40px;
+    text-align: center;
+    padding: 40px;
+  }
+  .versaltileBox_Head {
+    justify-content: center;
+  }
+  .versatile_Section {
+    padding: 50px 0;
+  }
+  .versatile_Section .heading60 {
+    font-size: 40px;
+  }
+  .versatile_Section .heading24 {
+    font-size: 20px;
+  }
+  /* End Versatile Section */
+  /* start footer section */
+  .footerSocialLinks {
+    justify-content: start;
+    margin-top: 20px;
+  }
+  .businessTypContainer {
+    margin-top: 20px;
+  }
+  .subscroptionBox_ {
+    padding-bottom: 50px;
+  }
+  /* end footer section */
+  .heading63 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+  /* Start B2B Section */
+  .b2b_Section .heading60 {
+    font-size: 40px;
+  }
+  .b2b_Section .heading24 {
+    font-size: 19px !important;
+  }
+  .b2b_Section .common_ParentDiv {
+    padding: 60px 0;
+  }
+  .b2b_Section .sellMore {
+    padding-bottom: 89px;
+  }
+  .b2b_Section .getCornerImg {
+    display: none;
+  }
+  .b2b_Section .getApp_Box {
+    padding: 50px;
+  }
+  .b2b_Section .heading30 {
+    font-size: 22px;
+  }
+  .businessList_Box .business_List {
+    padding: 40px 0;
+  }
+  .businessSol_Section {
+    margin: 60px 0;
+  }
+  .heading19 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  /* End B2B Section */
+  /* Start Pricing Page Css */
+  .pricingGetBtn {
+    margin: 25px 0px 38px 0px;
+  }
+  .pricingPara {
+    font-size: 16px;
+    margin-top: 43px;
+    margin-bottom: 50px;
+  }
+  .pricingToggle .switch {
+    height: 28px;
+    width: 57px;
+  }
+  .pricingToggle input:checked + .slider:before {
+    transform: translateX(29px);
+  }
+  .pricingToggle .slider:before {
+    bottom: 5px;
+    content: "";
+    height: 20px;
+    left: 4px;
+    width: 20px;
+  }
+  .pricingToggle {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+  }
+  .heading54 {
+    font-size: 43px;
+  }
+  .sellMore .heading28 {
+    font-size: 20px !important;
+  }
+  .b2bSection_Images img {
+    width: 100%;
+  }
+  .extensive.commonCardSm {
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+  }
+  .mobilenone_ {
+    display: none;
+  }
+  .desktopnone {
+    display: block;
+  }
+  .b2b_Section .b2bSection_Images {
+    margin: 24px 0 46px;
+  }
+  .posSection .b2bSection_Images {
+    margin: 0px 0 20px !important;
+  }
+  .card1 {
+    padding: 30px 17px;
+    height: 66vh;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    padding: 30px 17px;
+  }
+  .comonPos_ .card1 {
+    height: 75vh;
+  }
+  .posSection .card1 {
+    height: 78vh;
+  }
+  .cardLeft .heading24 {
+    font-size: 16px !important;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .foodBev_Banner .commonBtn_Parent {
+    padding-bottom: 0;
+}
+  .contactUs_Form {
+    box-shadow: none !important;
+  }
+  .aboutDynamicBusiness .heading30 {
+    font-size: 19px;
+    line-height: 27px;
+  }
+
+  .comonPos_ .b2b_Section .sellMore_Txt {
+    padding-top: 6px;
+  }
+  .comonPos_ .card1 .imageContainer {
+    margin: 13px auto 0;
+  }
+  .comonPos_ .cardLeft .heading60 {
+    font-size: 26px !important;
+  }
+  .comonPos_ .cardLeft .heading24 {
+    font-size: 16px !important;
+  }
+  .posSection .card1 {
+    height: 75vh;
+  }
+  .product_Section {
+    padding: 30px 0 50px;
+  }
+  .aboutDynamicBusiness {
+    padding: 30px 0 0;
+    background: #eff2f9;
+  }
+  .posSection .common_ParentDiv {
+    padding: 50px 0 60px;
+  }
+  .b2b_Section .getApp_NotifyButton {
+    padding: 15px 14px;
+  }
+  .navbar_Brand {
+    padding-left: 20px;
+  }
+  .loginBtnCon.mobloginBtnCon {
+    padding-right: 10px;
+  }
+  header {
+    padding: 14px 0;
+  }
+  .success {
+    margin: 0px 25px;
+  }
+  .qualityProduct {
+    padding: 0 15px !important;
+  }
+  /* Privacy page */
+  .privacy_Page .heading72 {
+    font-size: 40px;
+  }
+  .privacy_Page .privacyListParent {
+    padding-top: 40px;
+  }
+  .privacy_Page .heading24 {
+    font-size: 20px;
+  }
+  /* End privacy page */
+  .bannerBox_ .heading72 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .indexMainSection {
+    padding: 0 15px;
+  }
+  .pricingBox_Img {
+    width: 38px;
+    height: 38px;
+  }
+  .pricingCard .heading24 {
+    font-size: 20px;
+  }
+  .pricingCard .heading18 {
+    font-size: 16px;
+  }
+  .pricingCardBlue .heading24 {
+    font-size: 20px;
+  }
+  .pricingCardBlue .heading18 {
+    font-size: 16px;
+  }
+  .pricingPara {
+    margin-top: 40px;
+    margin-bottom: 25px;
+  }
+  .pricing_Section .heading60 {
+    font-size: 30px;
+  }
+  .pricing_Section .heading28 {
+    font-size: 20px;
+  }
+  .ecoinnerContent {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .productVersatile_Box .heading24 {
+    line-height: 26px;
+  }
+  .jobrRespLogo {
+    display: block;
+  }
+  .jobr_Logo {
+    display: none;
+  }
+  /* Start Landing Page */
+  .bannerBox_ .heading63 {
+    font-size: 47px;
+    line-height: 60px;
+    text-align: start;
+  }
+  .bannerBox_ .heading24 {
+    text-align: start;
+    padding: 0 !important;
+  }
+  .informationForm {
+    margin-top: 36px;
+  }
+  .landingBanner_Btns {
+    margin-top: 26px;
+    flex-direction: column;
+  }
+  .landingBanner_Btns .primaryBtn_ {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  .landingBanner_Btns .contactsalebtn {
+    display: block;
+  }
+  .dynamicBusiness {
+    padding: 0px 0 40px;
+  }
+  .businessEcosystem_ .heading56 br {
+    display: none;
+    text-align: center !important;
+  }
+  .businessEcosystem_ .heading56 {
+    text-align: center !important;
+  }
+  .headcommon_ {
+    font-size: 16px;
+  }
+  .imglog_ {
+    height: 16px;
+    width: 16px;
+  }
+  .dynamicBusiness .heading60 {
+    padding: 15px 0;
+    margin-bottom: 0;
+  }
+  .wholesec_ {
+    margin-bottom: 0;
+  }
+  .businessEcosystem_ .heading56 {
+    font-size: 35px;
+    line-height: 46px;
+  }
+  .new_Footer .heading56 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .new_Footer {
+    padding: 45px 15px 120px;
+  }
+  .footerIconn_ {
+    position: absolute;
+    right: 0;
+    bottom: -60px;
+  }
+  .footer_List {
+    padding-top: 24px;
+  }
+  .footer_Spacing {
+    padding: 40px 0 0;
+  }
+  .aboutDynamicBusiness .heading56 {
+    font-size: 48px;
+  }
+  .aboutDynamicBusiness .heading72 {
+    font-size: 48px;
+  }
+  .aboutDynamicBusiness .heading60 {
+    font-size: 40px;
+  }
+  /* End Landing Page */
+
+  /* Start All Product Section */
+  .product_Section .heading24 {
+    font-size: 20px;
+  }
+  .allProduct_Section .allProduct_Head {
+    font-size: 24px;
+    padding: 10px 0;
+    line-height: unset;
+  }
+  .allProduct_Section .heading30 {
+    font-size: 16px;
+  }
+  .allProduct_LeftSide {
+    padding: 25px 0;
+  }
+  .allProductLeftSide_Head {
+    justify-content: center;
+  }
+  .allProduct_LeftSide {
+    text-align: center;
+  }
+  .allProduct_Section .all_ProductBtn {
+    justify-content: center;
+  }
+  /* End All Product Section */
+
+  /* Start Integrated Section */
+  .integratedSection .trialBtn_.productTrailBtn {
+    margin: 20px 0 50px;
+  }
+  .integratedSection .heading60 {
+    font-size: 24px;
+  }
+  .integratedSection .stream_Para {
+    padding-top: 15px;
+    font-size: 16px;
+  }
+  /* End Integrated Section */
+
+  /* Start Product Empower Section */
+  .product_Emp .productEmp_Head {
+    font-size: 20px;
+  }
+  /* End Product Empower Section */
+
+  /* Start joberDeriver Section */
+  .joberDeriver .heading56 {
+    font-size: 24px;
+  }
+  .joberDeriver .heading24 {
+    font-size: 16px;
+  }
+  .driver_MainHead {
+    padding-bottom: 15px;
+  }
+  /* End joberDeriver Section */
+
+  /* Start Product Page */
+  .product_Parent .heading72 {
+    font-size: 24px;
+  }
+  .product_Section .businessButton_ {
+    margin-top: 25px;
+  }
+  .product_Section .productBannerImg {
+    margin-top: 40px;
+  }
+  .cashBack_Order2 {
+    justify-content: center;
+  }
+
+  /* Start Vesatile Section */
+
+  /* Start Early Access Section */
+  .early_Access {
+    padding: 50px 0;
+  }
+  .early_Access .productEmp_Head {
+    font-size: 24px;
+  }
+  .productSlider_Parent {
+    margin: 50px 0 0;
+  }
+  /* End Early Access Section */
+  .versaltile_boxes {
+    margin-top: 30px;
+    text-align: center;
+    padding: 30px;
+  }
+  .marketplace_List {
+    padding: 25px 0;
+  }
+  .versatile_Section .heading60 {
+    font-size: 24px;
+  }
+  .versatile_Section .heading24 {
+    font-size: 16px;
+  }
+  /* End Versatile Section */
+
+  /* End Product Section */
+  .cashback_Section .heading24 {
+    font-size: 18px;
+  }
+  .cashback_Section .cashBack_Head {
+    padding-top: 5px;
+    font-size: 24px;
+  }
+  .cashback_Section .cashBack_Head br {
+    display: none;
+  }
+  .cashback_Section .trialBtn_ {
+    margin-top: 10px;
+  }
+  .cashback_Section .heading30 {
+    font-size: 20px;
+  }
+  .cashback_Section .heading30 br {
+    display: none;
+  }
+  .cashBack_Boxes .comprehensive_Para {
+    font-size: 16px;
+    padding-top: 0;
+  }
+  .cashback_Section .cashBack_Boxes {
+    text-align: center;
+  }
+  .comprehensiveImg {
+    max-width: 300px;
+    width: 100%;
+  }
+  /* End Cashback Section */
+
+  .signUpBtn {
+    padding: 10px 16px;
+    font-size: 13px;
+  }
+  .loginBtn {
+    padding: 10px 11px;
+  }
+  .bannerleftContent {
+    /* padding-left: 8%; */
+    /* padding-right: 8%; */
+  }
+  .informationForm .primaryBtn_ {
+    max-width: initial;
+  }
+  /* .businessempowerText_ {
+    padding: 80px 25px 5px 25px !important;
+  } */
+  /* .heading56 {
+    font-size: 56px;
+  } */
+  /* .heading63 {
+    line-height: 71px;
+  } */
+  .mobbannerimg_ {
+    display: block !important;
+    width: 100%;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 9px;
+  }
+  /* .bannerimg_ {
+    display: none;
+  } */
+  .mobilegadget {
+    width: 100%;
+  }
+  .trialBox_ {
+    text-align: center;
+  }
+  .trialBox_ .heading26 {
+    margin-right: 0 !important;
+  }
+  .joberWallet_ {
+    padding-top: 20px;
+  }
+  .joberWallet_ .businessempowerText_ {
+    padding: 50px 10px;
+  }
+  /* .footerIconn_ {
+    bottom: -29px;
+  } */
+  .trackingiamge_ {
+    display: none;
+  }
+  .mobtrackimg {
+    display: block;
+  }
+  .joberDeriver {
+    padding-top: 60px;
+    padding-bottom: 0;
+  }
+  .gadgetimg {
+    display: none;
+  }
+  .mobilegadget.d-none {
+    display: block !important;
+  }
+  .order-last {
+    order: 0 !important;
+  }
+  .retailsSolution_ {
+    padding: 9% 0 20%;
+  }
+  .intImage_ {
+    display: none;
+  }
+  .readilsolution_ {
+    width: 100%;
+    top: 13%;
+  }
+  .bannerBox_ {
+    padding: 30px 0 11px;
+  }
+  .businessEnpoer_ .businessempowerText_ .heading56 {
+    font-size: 47px;
+    line-height: 53px;
+  }
+  .businessempoerRight_ {
+    margin-top: 27px;
+  }
+  .businessEnpoer_ {
+    padding: 20px 0 56px;
+  }
+  .dynamicLeft_ {
+    margin-top: 40px;
+  }
+
+  .mobintegrate {
+    display: block !important;
+    position: relative;
+    right: -12px;
+  }
+  .walletFeature .container {
+    padding-right: 0;
+  }
+  .testimonialsBox_ {
+    padding: 60px 0;
+  }
+  .testimonialsBox_ .heading56 {
+    font-size: 32px;
+    padding: 0 20px;
+  }
+  /* Start Contact Us Page */
+  .contactUs_Section .heading72 {
+    font-size: 40px;
+  }
+  .contactUs_Section .heading30 {
+    font-size: 18px;
+  }
+  .contactUs_Section {
+    padding: 30px 0 50px;
+  }
+  .contactUs_Form {
+    margin-top: 20px;
+  }
+  .contactForm_Leftside {
+    padding: 30px 20px;
+  }
+  .contactForm_Rightside {
+    padding: 30px 5px;
+  }
+  .contactForm_Leftside .heading36 {
+    font-size: 24px;
+  }
+  .contactForm_Leftside .heading18 {
+    font-size: 16px;
+  }
+  .contactForm_Leftside .contactForm_List {
+    padding: 25px 0 0;
+  }
+  .common_Input {
+    padding: 16px 13px;
+  }
+  .email_Input {
+    padding: 16px 13px 16px 50px;
+  }
+  /* End Contact Us Page */
+
+  /* Start Streamline */
+  .streamLine .heading24 {
+    font-size: 20px;
+  }
+  .streamLine .heading56 {
+    font-size: 24px;
+    line-height: unset;
+  }
+  .stream_MainHead {
+    padding-top: 20px;
+  }
+  .stream_Para {
+    font-size: 16px !important;
+    padding-top: 15px;
+  }
+  .streamLine {
+    text-align: center;
+  }
+  .jobrPos_Head {
+    justify-content: center;
+  }
+  .stream_MainHead {
+    padding-top: 10px;
+  }
+
+  /* Start B2b Section */
+  .b2b_Section .common_ParentDiv {
+    padding: 50px 0;
+  }
+  .b2b_Section .getApp_Box {
+    padding: 20px;
+  }
+  .b2b_Section .sellMore {
+    padding-bottom: 10px;
+  }
+  .b2b_Section {
+    padding: 130px 0 0;
+  }
+  .pricing_Section {
+    padding: 30px 0 10px;
+  }
+  .privacy_Page {
+    padding: 30px 0 60px;
+  }
+  .b2b_Section .heading60 {
+    font-size: 30px;
+  }
+  .posSection .heading72 {
+    font-size: 30px;
+  }
+  .b2b_Section .sellMore_Txt {
+    padding-top: 15px;
+  }
+  .b2b_Section .heading30 {
+    font-size: 20px;
+  }
+  .businessSol_Section {
+    margin: 50px 0;
+  }
+  .pos_Business_Btn {
+    margin-top: 30px;
+  }
+  .pos_Business_Price .heading48 {
+    font-size: 30px;
+  }
+
+  /* End B2b Section */
+  /* new css */
+  .success .heading48 {
+    line-height: 51px;
+    font-size: 39px;
+    text-align: left;
+  }
+  .success .heading30 {
+    font-size: 26px !important;
+    text-align: left;
+  }
+  .benefit {
+    padding: 25px 15px;
+  }
+  .benefit .heading48 {
+    line-height: 45px;
+    font-size: 36px;
+    text-align: left;
+  }
+  .benefit .heading30 {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  .extensive.commonCardSm {
+    padding-left: 4%;
+    padding-right: 1%;
+  }
+  .b2bSection_Images img {
+    width: 100%;
+  }
+  .image {
+    top: 8%;
+  }
+  .b2b_Section {
+    padding: 30px 0 0;
+  }
+  .image-wrapper {
+    padding: 0 0;
+  }
+  .comonPos_ {
+    padding-top: 30px;
+  }
+  .comonPos_ .cardContainer {
+    top: 67px;
+  }
+  .comonPos_ .b2bSection_Images img {
+    width: 63%;
+    margin: 0 auto;
+  }
+  .posBusiness_Section {
+    margin-top: 0;
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  .foodBev_Banner .commonBtn_Parent{
+    padding-top: 24px;
+  }
+  .businessCommonPos_ .cardLeft .heading24 {
+    font-size: 16px !important;
+  }
+  .bannerleftContent {
+    /* padding-left: 2%; */
+    /* padding-right: 2%; */
+  }
+  .businessCommonPos_.posSection .card1 {
+    height: 85vh !important;
+  }
+  .foodBeverage_BannerImg {
+    padding-top: 30px;
+  }
+  .barsBannerImg {
+    padding-top: 30px;
+  }
+  .heading63 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .bannerleftContent .heading24 {
+    padding: 0 14px;
+    font-size: 20px;
+  }
+  /* .businessempowerText_ {
+    padding: 50px 22px;
+  } */
+  .dynamicBusiness .businessempowerText_ {
+    padding: 8px 0 0;
+  }
+  .heading56 {
+    font-size: 47px;
+  }
+  .businessempowerText_ h4 {
+    font-size: 24px;
+  }
+  .businessfeature_ {
+    padding: 20px 18px;
+    min-height: 208px;
+  }
+  .businessEnpoer_ .businessfeature_ .heading24 {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .businessfeature_ .heading24 {
+    margin-top: 39px;
+  }
+  .heading56 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .subouterButton {
+    font-size: 14px;
+  }
+  .primaryBtn_blue {
+    font-size: 15px;
+  }
+  .retailsSolution_ .headingOther {
+    padding: 0 20px;
+  }
+  .featureInner .heading26 {
+    font-size: 20px;
+  }
+  .driverOperation_ h4 {
+    font-size: 14px;
+  }
+  .jobrdeliverySlider_ {
+    padding: 17px 0 18px;
+  }
+  .ecoContentbottom:before {
+    left: -28px;
+  }
+  .ecoinnerContent {
+    padding: 20px 19px;
+  }
+  .businessEcosystem_ .headingOther {
+    padding: 0 21px;
+  }
+  .customerReview {
+    padding: 30px 24px;
+    min-height: 378px;
+  }
+
+  .customerReview .heading26 {
+    font-size: 18px;
+  }
+  .customerReview .heading18 {
+    font-size: 14px;
+  }
+  .suscribeInput_ {
+    padding: 7px 13px;
+  }
+  .suscribeInput_ .primaryBtn_blue {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+  .suscribeInput_ .customformControl {
+    width: 63%;
+    padding: 14px 0;
+  }
+  header .dropdown-menu {
+    min-width: 276px;
+  }
+  .driverOperation_ {
+    padding: 24px 14px;
+  }
+  .userProfile_ .heading20 {
+    font-size: 17px;
+  }
+  .userProfile_ .heading16 {
+    font-size: 13px;
+  }
+  .userImg {
+    width: 47px !important;
+  }
+  .userProfile_ .heading20 {
+    font-size: 15px;
+  }
+  .userProfile_ .heading16 {
+    font-size: 13px;
+  }
+  .driverOperation_ {
+    width: 89%;
+  }
+  .success {
+    padding: 20px;
+  }
+  .success .heading48 {
+    line-height: 45px;
+    font-size: 36px;
+  }
+
+  .successCard {
+    padding: 16px 0px;
+  }
+  .benefitCard .heading24 {
+    font-size: 20px;
+  }
+  .qualityPage .heading24 {
+    /* margin-top: 0px !important; */
+    margin-bottom: 0px !important;
+  }
+  .aboutDynamicBusiness .heading30 {
+    margin-bottom: 0px !important;
+  }
+  .benefit {
+    margin-top: 0px !important;
+  }
+  .benefitLower {
+    padding: 20px 0 0px !important;
+  }
+  /* .card1 {
+    height: 57vh;
+  } */
+  .comonPos_ .cardContainer .card1 .imageContainer img {
+    margin: auto;
+    height: auto !important;
+    width: 41% !important;
+  }
+  .cardLeft .heading24 {
+    line-height: unset;
+  }
+  .comonPos_ .card1 {
+    height: 83vh;
+    padding: 12px 12px;
+  }
+  .b2b_Section .sellMore {
+    padding-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .foodBeverage_BannerImg {
+    padding-top: 0;
+  }
+  .barsBannerImg {
+    padding-top: 0px;
+  }
+  .card1 {
+    height: 52vh;
+  }
+  .planttabslist {
+    font-size: 14px;
+  }
+  .businessEcosystem_ .heading56 {
+    font-size: 32px;
+    line-height: 46px;
+  }
+  .qualityProduct .heading56 {
+    padding-top: 0 !important;
+  }
+  .qualityProduct {
+    padding: 25px 15px 5px 15px !important;
+  }
+  .aboutUs_BannerParent {
+    padding-top: 0 !important;
+  }
+  .aboutDynamicBusiness .heading19 {
+    font-size: 20px;
+  }
+
+  .businessempowerText_ {
+    margin-top: 20px;
+  }
+  .qualityProduct {
+    margin-top: 0px !important;
+  }
+  .qualityProduct .heading56 {
+    font-size: 30px;
+    line-height: 39px;
+    font-size: 400;
+    margin-top: 0px;
+  }
+  .qualityProduct .heading19 {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 0px !important;
+  }
+  .success {
+    margin-top: 50px;
+    padding: 20px;
+    margin: 20px 20px;
+  }
+  .success .heading30 {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  .success .heading48 {
+    line-height: 45px;
+    font-size: 32px;
+    text-align: left;
+  }
+  .benefit .heading30 {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px !important;
+  }
+  .benefit .heading48 {
+    line-height: 45px;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: left;
+  }
+  .benefit .heading24 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .webViewHeading {
+    display: none;
+  }
+  .mobViewHeading {
+    display: block;
+    margin-bottom: 24px;
+  }
+  .fullLogo {
+    display: none;
+  }
+  .shortLogo {
+    display: block;
+  }
+  .suscribeInput_ {
+    padding: 2px 11px !important;
+  }
+  /* .customFooter {
+    padding-left: 20px;
+  } */
+
+  /* .diclaimerBox_ {
+    padding-left: 20px;
+  } */
+  .successCard {
+    padding: 18px 0px !important;
+  }
+  .benefitCard .heading24 {
+    line-height: 24px;
+  }
+  .benefit .heading30 {
+    line-height: 26px;
+    margin-bottom: 10px !important;
+  }
+  .suscribeInput_ .primaryBtn_blue {
+    font-size: 12px;
+  }
+  /* Start Pos */
+  .cardLeft .heading24 {
+    font-size: 18px !important;
+    line-height: unset;
+  }
+  .posSection .card1 {
+    height: 73vh;
+  }
+  .businessCommonPos_.posSection .card1 {
+    height: 85vh !important;
+  }
+  .posSection .businessSol_Section {
+    margin: 0 0 30px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .driverOperation_ h4 {
+    font-size: 14px;
+  }
+  .qualityPage .heading24 {
+    /* margin-top: 0px !important; */
+    margin-bottom: 0px !important;
+  }
+  .aboutDynamicBusiness .heading30 {
+    margin-bottom: 0px !important;
+  }
+  .benefit {
+    margin-top: 0px !important;
+  }
+  .benefitLower {
+    padding: 9px 0 0px !important;
+  }
+}

@@ -1,0 +1,96 @@
+@media screen and (max-width: 1200px) {
+  .dollar {
+    padding: 20px 15px;
+  }
+  .smallImages {
+    max-width: 222px;
+  }
+  .otherAppImage {
+    max-width: 486px;
+  }
+}
+@media screen and (max-width: 1020px) {
+  .customInput {
+    max-width: 400px;
+  }
+  .seemInner img:last-child {
+    margin-top: 10px;
+  }
+
+  .navbar-nav li {
+    padding: 0 14px;
+  }
+  .seemInner {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 992px) {
+  .customInput {
+    max-width: 100%;
+  }
+  .getAppInner .primaryBtn {
+    margin-top: 10px;
+  }
+  .allRightReserve {
+    margin-top: 46px !important;
+  }
+  .dynamicBusiness {
+    padding: 0px 0 80px !important;
+  }
+  .indedTable td {
+    width: 100%;
+  }
+  .ourCoreImages {
+    display: none;
+  }
+  .loginBtnCon {
+    display: none;
+  }
+  .afterRes {
+    display: block;
+  }
+  .navbar-expand-lg .navbar-nav {
+    /* flex-direction: row; */
+    align-items: center;
+  }
+  .navbar-toggler-icon i {
+    padding: 5px 0;
+  }
+  header {
+    padding: 14px 36px;
+  }
+  .navbar-expand-lg .navbar-nav {
+    margin-top: 15px;
+  }
+  .navbar-nav li {
+    padding: 8px 14px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .driverNavigationCon {
+    flex-wrap: wrap;
+  }
+ 
+}
+@media screen and (max-width: 576px) {
+
+  .getApp {
+    padding: 45px 35px;
+  }
+  .headingLight64 {
+    font-size: 50px;
+  }
+  .allAppCard {
+    padding: 34px 15px 0 28px;
+  }
+  .productImg {
+    margin-top: auto;
+  }
+  .extensiveCatInner {
+    flex-wrap: wrap;
+  }
+  .manufacturerInner {
+    flex-wrap: wrap;
+  }
+}
+

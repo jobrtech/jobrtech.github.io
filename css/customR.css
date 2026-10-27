@@ -1,0 +1,432 @@
+.whiteIcon {
+  filter: invert(100%) sepia(5%) saturate(7437%) hue-rotate(273deg)
+    brightness(300%) contrast(105%);
+}
+.captchaBox {
+  width: 73%;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin-left: 5px;
+}
+.phoneControl .form-control {
+  color: #4659b5 !important;
+}
+.errorMsg {
+  color: red;
+  font-size: 12px;
+  margin-left: 21px !important;
+  margin-top: -10px !important;
+}
+.pointCursor {
+  cursor: pointer;
+}
+.new_Footer .selectOptions_ {
+  width: 100% !important;
+  box-shadow: none;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.image-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  padding: 0 150px;
+}
+
+.image {
+  position: sticky;
+  top: 17%;
+  left: 0;
+  width: 100%;
+}
+
+.first,
+.second,
+.third {
+  height: 40vh;
+}
+
+.forth,
+.fifth,
+.sixth,
+.seventh,
+.eight,
+.nine {
+  height: 60vh;
+}
+
+.first,
+.second,
+.third,
+.forth,
+.fifth,
+.sixth,
+.seventh,
+.eight,
+.nine {
+  /* background-color: #f5f7fc; */
+  background-color: #f5f7fc;
+}
+.eight {
+  margin-top: 9%;
+}
+.nine {
+  margin-top: 12%;
+}
+.posSection .image {
+  top: 20%;
+}
+.comonPos_ .image-wrapper {
+  padding: 0 2% 0 15%;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animation class */
+.fade-in-animation {
+  animation: fadeIn 1s ease-in-out;
+}
+/* .extensive.commonCardSm {
+  padding-left: 29%;
+} */
+.b2bSection_Images img {
+  width: 100%;
+}
+.b2cget_ {
+  margin-top: 116px;
+}
+
+.mobileimage {
+  display: none;
+}
+.planLoader {
+  color: #263682 !important;
+}
+.phoneControl .react-tel-input .country-list .search-box {
+  border: 1px solid #d7deff;
+  border-radius: 25px;
+  padding: 8px 8px 8px;
+  color: #4659b5;
+}
+.phoneControl .react-tel-input .country-list .country {
+  color: #263682 !important;
+}
+.phoneControl .react-tel-input .country-list .country .dial-code {
+  color: #4659b5 !important;
+}
+.phoneControl .react-tel-input .country-list .country.highlight {
+  background-color: #f5f6fc !important;
+}
+.phoneControl .react-tel-input .country-list .country:hover {
+  background-color: #f5f6fc !important;
+}
+.desktopnone {
+  display: none;
+}
+.comonPos_ .b2bSection_Images img {
+  width: 43%;
+}
+.comonPos_ .b2bSection_Images {
+  text-align: center;
+}
+.comonPos_ .image {
+  top: 15%;
+}
+
+/*responsive css*/
+@media screen and (min-width: 992px) {
+  .navWhite {
+    color: #ffffff !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  .nav_links:hover {
+    color: #263682;
+  }
+  .nav_links:hover {
+    color: #263682;
+    background-color: #f5f6fc !important;
+    border-radius: 20px;
+  }
+  .nav_links.active {
+    color: #263682 !important;
+    font-weight: 500;
+  }
+  .navWhite:hover {
+    color: #263682 !important;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .posSection .heading60 {
+    font-size: 52px;
+  }
+  .posSection .heading72 {
+    font-size: 52px;
+  }
+  .posSection .heading24 {
+    font-size: 20px;
+  }
+  .posSection .heading30 {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .posSection .pos_CompanyImg {
+    margin-top: 60px;
+  }
+  .posSection .heading30 {
+    font-size: 22px;
+  }
+  .posSection .wrapper {
+    margin-top: 60px;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .bannerleftContent .customformControl {
+    width: 79%;
+  
+}
+.informationForm .contactsalebtn {
+  padding: 10px 22px;
+}
+}
+@media screen and (max-width: 1199px) {
+.informationForm .contactsalebtn {
+  padding: 10px 30px;
+}
+}
+@media screen and (max-width: 575px) {
+.boodBev_Btn .contactsalebtn {
+    margin-right: 5px;
+}
+}
+@media screen and (max-width: 480px) {
+  .deskimg {
+    display: none;
+  }
+  .mobileimage {
+    display: block;
+  }
+}
+
+/* Animation */
+/* @supports (animation-timeline: works) {
+
+  @scroll-timeline cards-element-scrolls-in-body {
+    source: selector(body);
+    scroll-offsets:
+      selector(#cards) start 1,
+      selector(#cards) start 0
+    ;
+    start: selector(#cards) start 1;
+    end: selector(#cards) start 0;
+    time-range: 4s;
+  }
+
+  .card {
+    --index0: calc(var(--index) - 1);
+    --reverse-index: calc(var(--numcards) - var(--index0));
+    --reverse-index0: calc(var(--reverse-index) - 1);
+  }
+  
+  .card__content {
+    transform-origin: 50% 0%;
+    will-change: transform;
+
+    --duration: calc(var(--reverse-index0) * 1s);
+    --delay: calc(var(--index0) * 1s);
+
+    animation: var(--duration) linear scale var(--delay) forwards;
+    animation-timeline: cards-element-scrolls-in-body;
+  }
+
+  @keyframes scale {
+    to {
+      transform:
+        scale(calc(
+          1.1
+          -
+          calc(0.1 * var(--reverse-index))
+        ));
+    }
+  }
+}
+
+:root {
+  --card-height: 45vw;
+  --card-margin: 4vw;
+  --card-top-offset: 1em;
+  --numcards: 4;
+  --outline-width: 0px;
+} */
+
+.mainContent {
+  position: relative;
+  margin-top: 50vh;
+}
+
+.cardContainer {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 50px;
+  transition: transform 0.3s ease-out;
+}
+.card1 {
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: row;
+  position: relative;
+  top: -25%;
+  height: 77vh;
+  width: 100%;
+  border-radius: 25px;
+  padding: 50px;
+  transform-origin: top;
+  box-shadow: 0 0 10px #eee;
+  transition: transform 0.3s ease-out;
+  will-change: transform;
+  z-index: 1;
+}
+
+/* .description {
+  width: 40%;
+  position: relative;
+  top: 10%;
+} */
+
+.imageContainer {
+  position: relative;
+  width: 80%;
+  height: 100%;
+  /* border-radius: 25px; */
+  overflow: hidden;
+}
+.inner-image {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.cardLeft {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inner-image img {
+  height: auto !important;
+  position: relative !important;
+}
+html {
+  scroll-behavior: smooth;
+}
+.cardLeft .heading60 {
+  font-size: 50px;
+}
+/* .card1.scaled {
+  transform: scale(1.2); 
+  z-index: 2;
+} */
+
+.beautyBannerImg {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  padding-top: 56px;
+}
+.foodBeverage_BannerImg {
+  position: absolute;
+  right: 50px;
+  bottom: 0;
+  padding-top: 56px;
+  max-width: 700px;
+  width: 100%;
+}
+
+
+.resNav_pagesList {
+  padding: 0 0 0 15px;
+}
+.resNav_pagesList ul li {
+  padding-bottom: 5px;
+}
+.resNav_pagesList ul {
+  list-style: circle !important;
+}
+.new_Footer {
+  padding: 60px 0 100px;
+}
+.versaltile_boxes .primaryBtn_ {
+  max-width: unset;
+}
+.barsBannerImg {
+  height: auto!important;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.retail_BannerImg {
+  right: 0;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: auto !important;
+}
+.boodBev_Btn .contactsalebtn{
+ background-color: transparent;
+ border: 1px solid #263682;
+ min-width: 172px;
+ padding: 11px 5px;
+ text-align: center;
+ display: block;
+}
+.foodBev_Checkout{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding-bottom: 30px;
+}
+.boodBev_Btn .contactsalebtn{
+ margin-right: 24px;
+ justify-content: center;
+}
+.foodBev_Banner .commonBtn_Parent{
+  padding-bottom: 60px;
+}
+.foodBev_Banner {
+  padding-top: 50px;
+}
+.foodBev_Pos {
+  padding-top: 80px;
+}
+
+
+@media screen and (max-width: 390px) {
+  .contactUs_Form .contactForm_Rightside .common_Input {
+    font-size: 14px;
+  }
+}
+
+
+/* @media screen and (max-width: 767px) {
+.boodBev_Btn .contactsalebtn:first-child {
+  min-width: 117px;
+}
+} */

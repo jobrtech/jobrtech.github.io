@@ -1,0 +1,10 @@
+.rotateArrow{
+    transform: rotate(90deg);
+}
+
+@media screen and (max-width: 1200px) {
+  .beautyBannerImg {
+    position: static;
+    padding-top: 0;
+  }
+}
